@@ -1,10 +1,14 @@
 
 #### [首页](?file=home-首页)
 
+##### Maze
+- [迷宫里的乞丐竟然都是一个人](?file=01-Maze/01-迷宫里的乞丐竟然都是一个人 "迷宫里的乞丐竟然都是一个人")
+
 ##### Maze People
 - [勒](?file=02-Maze People/01-勒 "勒")
 - [夏特莉](?file=02-Maze People/02-夏特莉 "夏特莉")
 - [乙炔](?file=02-Maze People/03-乙炔 "乙炔")
+- [Ge](?file=02-Maze People/032-Ge "Ge")
 - [佐井信](?file=02-Maze People/04-佐井信 "佐井信")
 - [张开](?file=02-Maze People/05-张开 "张开")
 - [诺特尔](?file=02-Maze People/06-诺特尔 "诺特尔")
