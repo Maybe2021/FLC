@@ -2,3 +2,9 @@
 .story {
   text-indent:2em;
 }
+
+/*论坛id*/
+.fid{
+  font-weight:bold;
+  cursor: pointer;
+}
